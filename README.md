@@ -1,1 +1,1 @@
-[Github snake contributions](./contribution.svg)
+<img src="./contribution.svg">
